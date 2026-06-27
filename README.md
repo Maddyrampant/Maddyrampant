@@ -6,13 +6,15 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Graphic+Designer;Founder+%26+CEO;Building+for+15%2B+years&font=Fira+Code&size=24&pause=1500&color=FF4DA6&center=true&vCenter=true&width=600&height=50" alt="Typing SVG" />
 </a>
 
-<br/>
-
-[![Email](https://img.shields.io/badge/Email-FF4DA6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:queenazshara1995@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-A64DFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maddyrampant)
-[![Reddit](https://img.shields.io/badge/Reddit-FF85B3?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/QwenAzhshara/)
-
 <br/><br/>
+
+<p align="center">
+  <a href="mailto:queenazshara1995@gmail.com"><img src="https://img.shields.io/badge/Email-FF4DA6?style=flat-square&logo=gmail&logoColor=white" height="35px"/></a>
+  <a href="https://github.com/Maddyrampant"><img src="https://img.shields.io/badge/GitHub-A64DFF?style=flat-square&logo=github&logoColor=white" height="35px"/></a>
+  <a href="https://www.reddit.com/user/QwenAzhshara/"><img src="https://img.shields.io/badge/Reddit-FF85B3?style=flat-square&logo=reddit&logoColor=white" height="35px"/></a>
+</p>
+
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Maddyrampant&style=for-the-badge&color=FF4DA6&label=PROFILE+VIEWS)
 
@@ -66,10 +68,34 @@ Great software starts with great design — and great design only works when you
 <img src="https://github-readme-stats.vercel.app/api?username=Maddyrampant&show_icons=true&hide_border=true&count_private=true&bg_color=0D0D0D&title_color=FF4DA6&icon_color=A64DFF&text_color=FFFFFF" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maddyrampant&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF4DA6&text_color=FFFFFF" width="48%" />
 
+</div>
+
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Maddyrampant&theme=radical&no-frame=true&row=1&column=6" />
+## 🕋 3D Contribution Graph
 
+<div align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Maddyrampant&theme=dark" width="100%" />
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake Game
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maddyrampant/Maddyrampant/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maddyrampant/Maddyrampant/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Maddyrampant/Maddyrampant/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+<br/>
+
+## 💡 Dynamic Developer Quotes
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=dark&theme=radical" />
 </div>
 
 <br/>
