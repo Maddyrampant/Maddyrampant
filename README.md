@@ -46,7 +46,7 @@ Great software starts with great design — and great design only works when you
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,python,mysql,js,ts,react,figma,ps,ai,git,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=php,py,mysql,js,ts,react,figma,ps,ai,git,linux&theme=dark" />
 
 </div>
 
@@ -65,10 +65,14 @@ Great software starts with great design — and great design only works when you
 <br/>
 
 ## 🎯 What I Do
-⚡ Full-Stack Development   →  database to UI, end to end
-🎨 UI/UX & Visual Identity  →  interfaces that build trust
-🏗️ Architecture & Leadership →  scalable systems, strong teams
-💡 Product Vision           →  raw ideas → polished products
+
+| | |
+|:--|:--|
+| ⚡ **Full-Stack Development** | Database architecture to the last pixel of the UI, end to end |
+| 🎨 **UI/UX & Visual Identity** | Interfaces that feel intuitive and brands that build trust |
+| 🏗️ **Architecture & Leadership** | Scalable systems, strong teams, clean execution |
+| 💡 **Product Vision** | Turning raw, half-formed ideas into polished products |
+
 <br/>
 
 ## 📊 GitHub Stats
