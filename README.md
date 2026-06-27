@@ -8,27 +8,13 @@
 
 <br/>
 
-[
+[![Email](https://img.shields.io/badge/Email-FF4DA6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:queenazshara1995@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-A64DFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maddyrampant)
+[![Reddit](https://img.shields.io/badge/Reddit-FF85B3?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/QwenAzhshara/)
 
-![Email](https://img.shields.io/badge/Email-FF4DA6?style=for-the-badge&logo=gmail&logoColor=white)
-
-](mailto:queenazshara1995@gmail.com)
-[
-
-![GitHub](https://img.shields.io/badge/GitHub-A64DFF?style=for-the-badge&logo=github&logoColor=white)
-
-](https://github.com/Maddyrampant)
-[
-
-![Reddit](https://img.shields.io/badge/Reddit-FF85B3?style=for-the-badge&logo=reddit&logoColor=white)
-
-](https://www.reddit.com/user/QwenAzhshara/)
-
-
+<br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Maddyrampant&style=for-the-badge&color=FF4DA6&label=PROFILE+VIEWS)
-
-
 
 </div>
 
@@ -45,9 +31,7 @@ Great software starts with great design — and great design only works when you
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=php,py,mysql,js,ts,react,figma,ps,ai,git,linux&theme=dark" />
-
+  <img src="https://skillicons.dev/icons?i=php,py,mysql,js,ts,react,figma,ps,ai,git,linux&theme=dark" />
 </div>
 
 <br/>
@@ -57,7 +41,7 @@ Great software starts with great design — and great design only works when you
 <div align="center">
 
 | Persian | English | German |
-|:---:|:---:|:---:|
+| :---: | :---: | :---: |
 | Native | Fluent | Fluent |
 
 </div>
@@ -66,8 +50,8 @@ Great software starts with great design — and great design only works when you
 
 ## 🎯 What I Do
 
-| | |
-|:--|:--|
+| Role / Focus | Description |
+| :-- | :-- |
 | ⚡ **Full-Stack Development** | Database architecture to the last pixel of the UI, end to end |
 | 🎨 **UI/UX & Visual Identity** | Interfaces that feel intuitive and brands that build trust |
 | 🏗️ **Architecture & Leadership** | Scalable systems, strong teams, clean execution |
@@ -82,6 +66,8 @@ Great software starts with great design — and great design only works when you
 <img src="https://github-readme-stats.vercel.app/api?username=Maddyrampant&show_icons=true&hide_border=true&count_private=true&bg_color=0D0D0D&title_color=FF4DA6&icon_color=A64DFF&text_color=FFFFFF" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maddyrampant&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF4DA6&text_color=FFFFFF" width="48%" />
 
+<br/>
+
 <img src="https://github-profile-trophy.vercel.app/?username=Maddyrampant&theme=radical&no-frame=true&row=1&column=6" />
 
 </div>
@@ -90,14 +76,12 @@ Great software starts with great design — and great design only works when you
 
 ## 📬 Get In Touch
 
-<div align="center">
-
-| | |
-|:--|:--|
+| Platform | Link / Contact |
+| :-- | :-- |
 | **Email** | [queenazshara1995@gmail.com](mailto:queenazshara1995@gmail.com) |
 | **GitHub** | [@Maddyrampant](https://github.com/Maddyrampant) |
 | **Reddit** | [u/QwenAzhshara](https://www.reddit.com/user/QwenAzhshara/) |
 
-</div>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4DA6,100:0D0D0D&height=120&section=footer" width="100%"/>
