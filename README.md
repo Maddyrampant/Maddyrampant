@@ -1,91 +1,92 @@
 <div align="center">
 
-# Madeline
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:FF4DA6&height=200&section=header&text=MADELINE&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-### Full-Stack Developer · Graphic Designer · Founder & CEO
-
-*Where clean code meets clean design.*
+<a href="https://github.com/Maddyrampant">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Graphic+Designer;Founder+%26+CEO;Building+for+15%2B+years&font=Fira+Code&size=24&pause=1500&color=FF4DA6&center=true&vCenter=true&width=600&height=50" alt="Typing SVG" />
+</a>
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-D4A5A5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:queenazshara1995@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-C08497-?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maddyrampant)
-[![Reddit](https://img.shields.io/badge/Reddit-AD7A99?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/QwenAzhshara/)
+[
+
+![Email](https://img.shields.io/badge/Email-FF4DA6?style=for-the-badge&logo=gmail&logoColor=white)
+
+](mailto:queenazshara1995@gmail.com)
+[
+
+![GitHub](https://img.shields.io/badge/GitHub-A64DFF?style=for-the-badge&logo=github&logoColor=white)
+
+](https://github.com/Maddyrampant)
+[
+
+![Reddit](https://img.shields.io/badge/Reddit-FF85B3?style=for-the-badge&logo=reddit&logoColor=white)
+
+](https://www.reddit.com/user/QwenAzhshara/)
+
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=Maddyrampant&style=for-the-badge&color=FF4DA6&label=PROFILE+VIEWS)
+
+
 
 </div>
 
 <br/>
 
-## About
+## ⚡ About Me
 
-I'm a full-stack developer and graphic designer with over **15 years** of experience building products at the intersection of technology and design. As Founder & CEO, I lead teams and shape product vision while staying hands-on with both the architecture behind a product and the pixels in front of it.
+I'm a full-stack developer and graphic designer with over **15 years** of experience building products at the intersection of technology and design. As **Founder & CEO**, I lead teams and shape product vision while staying hands-on with everything from database architecture to the last pixel of the UI.
 
-I believe great software starts with great design — and great design only works when you understand how it's built.
-
-<br/>
-
-## Languages
-
-| Language | Proficiency |
-|:--|:--|
-| Persian | Native |
-| English | Fluent |
-| German | Fluent |
+Great software starts with great design — and great design only works when you understand how it's built.
 
 <br/>
 
-## Technical Expertise
-
-**Backend**
-![PHP](https://img.shields.io/badge/PHP-C08497?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-AD7A99?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-D4A5A5?style=flat-square&logo=mysql&logoColor=white)
-
-**Frontend**
-![JavaScript](https://img.shields.io/badge/JavaScript-C08497?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-AD7A99?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-D4A5A5?style=flat-square&logo=react&logoColor=white)
-
-**Design**
-![Figma](https://img.shields.io/badge/Figma-C08497?style=flat-square&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-AD7A99?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-D4A5A5?style=flat-square&logo=adobeillustrator&logoColor=white)
-
-**Tools & Infrastructure**
-![Git](https://img.shields.io/badge/Git-C08497?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-AD7A99?style=flat-square&logo=linux&logoColor=white)
-
-<br/>
-
-## What I Do
-
-**Full-Stack Development**
-From database architecture to the last pixel of the interface — building complete, scalable products end to end.
-
-**UI/UX & Visual Identity**
-Crafting interfaces that feel intuitive and brands that leave a mark. Design isn't decoration — it's how a product earns trust.
-
-**Architecture & Leadership**
-Leading teams, shaping product direction, and keeping systems clean enough to scale without falling apart.
-
-**Product Vision**
-Turning early, half-formed ideas into polished products people genuinely enjoy using.
-
-<br/>
-
-## GitHub Analytics
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Maddyrampant&show_icons=true&hide_border=true&count_private=true&bg_color=1A1625&title_color=D4A5A5&icon_color=C08497&text_color=F1E3E4" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maddyrampant&layout=compact&hide_border=true&bg_color=1A1625&title_color=D4A5A5&text_color=F1E3E4" alt="Top Languages" />
+<img src="https://skillicons.dev/icons?i=php,python,mysql,js,ts,react,figma,ps,ai,git,linux&theme=dark" />
 
 </div>
 
 <br/>
 
-## Get In Touch
+## 🌍 Languages
+
+<div align="center">
+
+| Persian | English | German |
+|:---:|:---:|:---:|
+| Native | Fluent | Fluent |
+
+</div>
+
+<br/>
+
+## 🎯 What I Do
+⚡ Full-Stack Development   →  database to UI, end to end
+🎨 UI/UX & Visual Identity  →  interfaces that build trust
+🏗️ Architecture & Leadership →  scalable systems, strong teams
+💡 Product Vision           →  raw ideas → polished products
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Maddyrampant&show_icons=true&hide_border=true&count_private=true&bg_color=0D0D0D&title_color=FF4DA6&icon_color=A64DFF&text_color=FFFFFF" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maddyrampant&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF4DA6&text_color=FFFFFF" width="48%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Maddyrampant&theme=radical&no-frame=true&row=1&column=6" />
+
+</div>
+
+<br/>
+
+## 📬 Get In Touch
+
+<div align="center">
 
 | | |
 |:--|:--|
@@ -93,10 +94,6 @@ Turning early, half-formed ideas into polished products people genuinely enjoy u
 | **GitHub** | [@Maddyrampant](https://github.com/Maddyrampant) |
 | **Reddit** | [u/QwenAzhshara](https://www.reddit.com/user/QwenAzhshara/) |
 
-<br/>
-
-<div align="center">
-
-*"Code is poetry, design is art, and coffee is the magic that makes both happen."*
-
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4DA6,100:0D0D0D&height=120&section=footer" width="100%"/>
